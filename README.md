@@ -10,7 +10,7 @@ Repo: https://github.com/anfastech/claude-statusline
 ![preview](assets/preview.png)
 
 ```
-Mohammed Anfas K P │ ⎇ main +2~1?3 ↑1 │ Opus 5.5 (1M context) │ ⏱ 12m4s │ ● 6% ctx
+Mohammed Anfas K P │ ⎇ docs/jobdispatcher-surcharge-comment │ Opus 5.5 (1M context) │ ⏱ 0m1s │ ● 29% ctx
 ```
 
 ## How it works
