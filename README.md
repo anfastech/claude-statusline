@@ -3,6 +3,8 @@
 A colored status line for [Claude Code](https://claude.com/claude-code).
 It shows who you are, your git state, the model and its context size, how long the session has run, and how full the context is.
 
+Repo: https://github.com/anfastech/claude-statusline
+
 ![preview](assets/preview.png)
 
 ```
