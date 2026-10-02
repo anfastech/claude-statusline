@@ -70,6 +70,17 @@ The installer:
 
 Restart Claude Code.
 
+### Let an agent do it
+
+Paste this into Claude Code, Codex, or any coding agent:
+
+```
+Install the status line from https://github.com/anfastech/claude-statusline.
+Follow AGENTS.md in that repo exactly.
+```
+
+[AGENTS.md](AGENTS.md) tells the agent what to check, when to ask you first, how to install, and how to verify.
+
 ### As a Claude Code skill
 
 Copy the skill, then ask Claude to "set up the claude-statusline".
