@@ -1,5 +1,7 @@
 # claude-statusline
 
+[![Release](https://img.shields.io/github/v/release/anfastech/claude-statusline)](https://github.com/anfastech/claude-statusline/releases/latest)
+
 A colored status line for [Claude Code](https://claude.com/claude-code).
 It shows who you are, your git state, the model and its context size, how long the session has run, and how full the context is.
 
